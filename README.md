@@ -4,5 +4,4 @@
 
     node src/app
     
-> **Data Shown**
 ![demo](https://i.imgur.com/wb95osP.png)
