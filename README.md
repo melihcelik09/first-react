@@ -3,8 +3,7 @@
 > **For Start**
 
     node src/app
-> **For Start**
+> **Data Shown**
 
-    node src/app
         
 ![demo](https://i.imgur.com/wb95osP.png)
